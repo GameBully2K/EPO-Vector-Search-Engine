@@ -1,15 +1,14 @@
-# Patent Data Collection and Analysis System
-
+# Patent Data Collection, Embedding and indexing using OpenAi embedding model and Cloudflare vectorize db
 ## Project Team
 This project was developed with dedication and expertise by:
 
 **Big thanks to our talented team:**
 * MBARKI Bilal
-* ABBADI Abdelbasset
-* ABU ALQASSIM Abubakar
-* AOUAM Ali
-* OULKAID Houssin
-* EL OUARD Abdel moula
+* EL ABBADI Abdelbasset
+* ABOUELKACIM Aboubaker
+* AOUAME Ali
+* OULKAID EL Houssin
+* EL OUARD Abdel Moula
 
 ## Overview
 This project implements a system for collecting and analyzing patent data from the European Patent Office (EPO) using their Open Patent Services (OPS) API. The system collects patent abstracts based on keywords, stores them in MongoDB, and creates vector embeddings using OpenAI's API for semantic search capabilities.
