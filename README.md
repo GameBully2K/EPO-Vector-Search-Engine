@@ -5,7 +5,7 @@ This project was developed with dedication and expertise by:
 **Big thanks to our talented team:**
 * MBARKI Bilal ([mbarki.bilal@ensam-casa.ma](mailto:mbarki.bilal@ensam-casa.ma))
 * EL ABBADI Abdelbasset 
-* ABOUELKACIM Aboubaker
+* ABOUELKACIM Aboubaker ([abouelkacim.aboubaker@ensam-casa.ma](mailto:abouelkacim.aboubaker@ensam-casa.ma))
 * AOUAME Ali ([aouameali45@gmail.com](mailto:aouameali45@gmail.com))
 * OULKAID EL Houssin ([oulkaid.elhoussin@ensam-casa.ma](mailto:oulkaid.elhoussin@ensam-casa.ma))
 * EL OUARD Abdel Moula ([abdelmoulaelouard389@gmail.com](mailto:abdelmoulaelouard389@gmail.com))
