@@ -7,7 +7,7 @@ This project was developed with dedication and expertise by:
 * EL ABBADI Abdelbasset 
 * ABOUELKACIM Aboubaker
 * AOUAME Ali ([aouameali45@gmail.com](mailto:aouameali45@gmail.com))
-* OULKAID EL Houssin
+* OULKAID EL Houssin ([oulkaid.elhoussin@ensam-casa.ma](mailto:oulkaid.elhoussin@ensam-casa.ma))
 * EL OUARD Abdel Moula ([abdelmoulaelouard389@gmail.com](mailto:abdelmoulaelouard389@gmail.com))
 
 ## Overview
