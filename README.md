@@ -3,12 +3,12 @@
 This project was developed with dedication and expertise by:
 
 **Big thanks to our talented team:**
-* MBARKI Bilal
-* EL ABBADI Abdelbasset
+* MBARKI Bilal ([mbarki.bilal@ensam-casa.ma](mailto:mbarki.bilal@ensam-casa.ma))
+* EL ABBADI Abdelbasset 
 * ABOUELKACIM Aboubaker
-* AOUAME Ali
+* AOUAME Ali ([aouameali45@gmail.com](mailto:aouameali45@gmail.com))
 * OULKAID EL Houssin
-* EL OUARD Abdel Moula
+* EL OUARD Abdel Moula ([abdelmoulaelouard389@gmail.com](mailto:abdelmoulaelouard389@gmail.com))
 
 ## Overview
 This project implements a system for collecting and analyzing patent data from the European Patent Office (EPO) using their Open Patent Services (OPS) API. The system collects patent abstracts based on keywords, stores them in MongoDB, and creates vector embeddings using OpenAI's API for semantic search capabilities.
